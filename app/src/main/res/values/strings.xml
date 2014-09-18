@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_phone">+251911211543</string>
+    <string name="btn_send_text">Send</string>
+    <string name="btn_close_text">Return Back</string>
+    <string name="lbl_message">Enter your Message :</string>
+    <string name="lbl_phone">Enter Phone # :</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name = "action_search">Search</string>
+    <string name = "mnu_sms_direct">Direct</string>
+    <string name = "mnu_sms_builtin">Built-in</string>
+
+</resources>
